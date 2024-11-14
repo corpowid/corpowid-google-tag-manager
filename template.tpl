@@ -14,6 +14,10 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Accessibility by CorpoWid",
+ "categories": [
+    "ANALYTICS",
+    "PERSONALIZATION"
+  ],
   "brand": {
     "id": "brand_corpowid",
     "displayName": "CorpoWid",
