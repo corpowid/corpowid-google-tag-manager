@@ -1,0 +1,5 @@
+homepage: "https://corpowid.com"
+documentation: "https://www.corpowid.com/az/platforms/gtm"
+versions:
+  - sha: ae932a5e3d85c245eb7eeca6b1af97333373e4a4
+    changeNotes: v1.0 - Initial commit
